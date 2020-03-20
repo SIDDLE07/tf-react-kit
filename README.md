@@ -17,9 +17,8 @@
 - React
 - Material-UI
 - Redux
-- DraftJS
+- Redux Saga
 - ChartJS
-- PrismJS
 - React Markdown
 - React Full Calendar
 
